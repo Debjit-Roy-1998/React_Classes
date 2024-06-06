@@ -1,2 +1,2 @@
 # React_Classes
-React_Classes &amp; codes
+React_Classes & codes
